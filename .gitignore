@@ -1,0 +1,10 @@
+# clasp(デプロイ先スクリプトIDはローカル固有情報のため公開しない)
+.clasp.json
+
+# Claude Code ローカル設定
+.claude/
+CLAUDE.md
+
+# OS / エディタ
+.DS_Store
+node_modules/

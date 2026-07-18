@@ -1,0 +1,17 @@
+{
+  "name": "gas-db",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GAS上でGoogleスプレッドシートをSQL対応DBサーバー化するシステム",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akazuma6/GAS_DB.git"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
